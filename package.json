@@ -1,0 +1,17 @@
+{
+  "name": "testing_intro",
+  "version": "1.0.0",
+  "description": "Project to try testing",
+  "main": "book.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Arun Sood",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.0.0"
+  }
+}
